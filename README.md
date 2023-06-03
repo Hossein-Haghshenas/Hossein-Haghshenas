@@ -1,1 +1,3 @@
-![gitartwork](gitartwork.svg)
+![gitartwork](./assets/gitartwork.svg)
+
+<br />
