@@ -7,3 +7,5 @@
 
 <br />
 <br />
+
+<img align="right" alt="GIF" src="./assets/coding.gif" width="450" height="350" />
