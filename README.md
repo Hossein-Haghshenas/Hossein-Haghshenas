@@ -30,3 +30,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <br />
+
+**Social media**
+
+<a href="https://www.instagram.com/hossein-developer/" >
+  <img alt="Hossein's Instagram" width="18px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://www.linkedin.com/in/hossein-haghshenas-68a3601ab/">
+  <img alt="Hossein's LinkedIN" width="18px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
