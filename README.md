@@ -44,8 +44,6 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
-<br />
-
 **🌐 Social media**
 
 <a href="https://www.instagram.com/hossein-developer/" >
