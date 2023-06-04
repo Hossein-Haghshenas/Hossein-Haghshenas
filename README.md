@@ -20,7 +20,7 @@
 
 <br />
 
-**⚡Technologies**
+**⚡ Technologies**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -32,9 +32,10 @@
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23333333?style=flat-square&logo=Bootstrap)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
+![MaterialUI](https://img.shields.io/badge/-MaterialUI-0081CB?style=flat-square&logo=material-UI)
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Expressjs](https://img.shields.io/badge/-Expressjs-%23282C34?style=flat-square&logo=express.js)
+![Expressjs](https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=Express.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 
@@ -45,7 +46,7 @@
 
 <br />
 
-**Social media**
+**🌐 Social media**
 
 <a href="https://www.instagram.com/hossein-developer/" >
   <img alt="Hossein's Instagram" width="18px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -53,3 +54,16 @@
 <a href="https://www.linkedin.com/in/hossein-haghshenas-68a3601ab/">
   <img alt="Hossein's LinkedIN" width="18px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
+<br />
+
+<details>
+<summary> Github Stats 💻</summary>
+
+<br />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Hossein-Haghshenas&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hossein's github stats" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hossein-Haghshenas&layout=compact&theme=buefy&hide_border=true" />
+
+</details>
