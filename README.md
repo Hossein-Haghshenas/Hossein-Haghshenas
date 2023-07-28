@@ -50,7 +50,7 @@
   <img alt="Hossein's Instagram" width="18px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/hossein-haghshenas-68a3601ab/">
-  <img alt="Hossein's LinkedIN" width="18px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img alt="Hossein's LinkedIN" width="18px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
 
 <br />
