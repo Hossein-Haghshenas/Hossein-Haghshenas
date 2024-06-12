@@ -12,7 +12,7 @@
 
 <img height="30px" alt="html" src="./assets/icons/cat-git.gif"><b>About me</b>
 
-- 💼 Front-end Developer at [AradGostar](/)
+- 💼 Front-end Developer at [AradGBK]()
 
 - ❤️ I love to dreaming up ideas and making them come true with programming
 
