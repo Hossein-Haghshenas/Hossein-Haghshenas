@@ -14,6 +14,10 @@
 
 - 💼 Front-end Developer at [AradGBK]()
 
+- 🎓 Studying for a Master's degree in Data Science
+
+- 🚀 Future Data Scientist and AI/ML Engineer
+
 - ❤️ I love to dreaming up ideas and making them come true with programming
 
 - 💬 Feel free to ask me any question [here](https://github.com/Hossein-Haghshenas/Hossein-Haghshenas/issues)
@@ -41,6 +45,10 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%23282C34?style=flat-square&logo=mongodb)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
 ![Figma](https://img.shields.io/badge/-figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-%23282C34?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-%23282C34?style=flat-square&logo=github)
@@ -50,7 +58,7 @@
 **🌐 Social media**
 
 <a href="https://www.linkedin.com/in/hossein-haghshenas-68a3601ab/">
-  <img alt="Hossein's LinkedIN" width="18px" src="https://cdn.simpleicons.org/linkedin" />
+  <img alt="Hossein's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <br />
