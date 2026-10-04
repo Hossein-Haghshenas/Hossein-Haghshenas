@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="70" viewBox="0 0 1200 70" aria-hidden="true">
+<defs>
+  <linearGradient id="l" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3B82F6" stop-opacity="0"/><stop offset="1" stop-color="#3B82F6" stop-opacity=".7"/></linearGradient>
+  <linearGradient id="r" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22C55E" stop-opacity=".7"/><stop offset="1" stop-color="#22C55E" stop-opacity="0"/></linearGradient>
+</defs>
+<rect x="160" y="34.5" width="400" height="1" fill="url(#l)"/>
+<rect x="640" y="34.5" width="400" height="1" fill="url(#r)"/>
+<svg x="584.5" y="15" width="31" height="40" viewBox="116 4 768 992"><defs><linearGradient id="fsig" gradientUnits="userSpaceOnUse" x1="244" y1="612" x2="756" y2="388"><stop offset="0" stop-color="#3E63FF"/><stop offset="1" stop-color="#2FD9C6"/></linearGradient></defs><path d="M238 560L244 560L260 560C304.07 560 361.92 556.42 402.08 536.04C430.46 521.64 446.38 500.95 463.98 475.3C489.82 437.6 509.03 408.18 548.48 382.04C604.28 345.08 674.48 336 740 336L756 336L762 336L762 440L756 440L740 440C695.93 440 638.08 443.58 597.92 463.96C569.54 478.36 553.62 499.05 536.02 524.7C510.18 562.4 490.97 591.82 451.52 617.96C395.72 654.92 325.52 664 260 664L244 664L238 664Z" fill="url(#fsig)"/><path d="M116 116L244 169.02L244 830.98L116 884Z" fill="#4E7DB0"/><path d="M756 169.02L884 116L884 884L756 830.98Z" fill="#4E7DB0"/><path d="M436 132L564 4L564 345.66C554.42 350.32 545.09 355.57 536.08 361.49C493.08 389.73 472.25 420.79 444.18 461.73C441.43 465.74 438.72 469.64 436 473.42Z" fill="#4E7DB0"/><path d="M436 654.34C445.58 649.68 454.91 644.43 463.92 638.51C506.92 610.27 527.75 579.21 555.82 538.27C558.57 534.26 561.28 530.36 564 526.58L564 868L436 996Z" fill="#4E7DB0"/></svg>
+</svg>

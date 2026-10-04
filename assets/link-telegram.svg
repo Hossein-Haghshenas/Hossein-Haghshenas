@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="149" height="60" viewBox="0 0 149 60" role="img" aria-label="TELEGRAM">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#050B16"/><stop offset="1" stop-color="#071A2A"/>
+  </linearGradient>
+  <linearGradient id="ink" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#4C8DFF"/><stop offset=".55" stop-color="#22D3C5"/><stop offset="1" stop-color="#5EE59A"/>
+  </linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#4C8DFF" stop-opacity=".55"/><stop offset=".5" stop-color="#22D3C5" stop-opacity=".12"/><stop offset="1" stop-color="#5EE59A" stop-opacity=".45"/>
+  </linearGradient>
+  <radialGradient id="gBlue" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#2F6BFF" stop-opacity=".42"/><stop offset="1" stop-color="#2F6BFF" stop-opacity="0"/></radialGradient>
+  <radialGradient id="gGreen" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#19C98A" stop-opacity=".32"/><stop offset="1" stop-color="#19C98A" stop-opacity="0"/></radialGradient>
+  <radialGradient id="gTeal" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#14B8C4" stop-opacity=".22"/><stop offset="1" stop-color="#14B8C4" stop-opacity="0"/></radialGradient>
+
+  <filter id="sh" x="-20%" y="-40%" width="140%" height="190%">
+    <feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#1FB8C9" flood-opacity=".38">
+      <animate attributeName="flood-opacity" values=".38;.22;.38" dur="5s" begin="0.7s" repeatCount="indefinite"/>
+    </feDropShadow>
+  </filter>
+  <linearGradient id="sweep" gradientUnits="userSpaceOnUse" x1="-60" y1="0" x2="10" y2="0">
+    <stop offset="0" stop-color="#9FF5D8" stop-opacity="0"/><stop offset=".5" stop-color="#E9FFF8" stop-opacity=".95"/><stop offset="1" stop-color="#9FF5D8" stop-opacity="0"/>
+    <animateTransform attributeName="gradientTransform" type="translate" values="0 0;199 0;199 0" keyTimes="0;.28;1" dur="6s" begin="0.7s" repeatCount="indefinite"/>
+  </linearGradient>
+</defs>
+<rect x="10" y="6" width="129" height="40" rx="20.0" fill="url(#bg)" filter="url(#sh)"/>
+<rect x="10.75" y="6.75" width="127.5" height="38.5" rx="19.25" fill="none" stroke="url(#ink)" stroke-opacity=".75" stroke-width="1.5"/>
+<rect x="10.75" y="6.75" width="127.5" height="38.5" rx="19.25" fill="none" stroke="url(#sweep)" stroke-width="1.5"/>
+<g transform="translate(25 18) scale(.8)" fill="none" stroke="#5EE59A" stroke-width="1.7"><path d="M19 2L1 9.5L7.5 11.5L9.5 18L12.5 13.5L17 17Z" stroke-linejoin="round"/><path d="M7.5 11.5L19 2"/></g>
+<text x="51" y="30.5" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, Menlo, monospace" font-size="12" letter-spacing="1.6" fill="#DCE8F7">TELEGRAM</text>
+</svg>

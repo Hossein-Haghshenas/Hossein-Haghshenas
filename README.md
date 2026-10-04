@@ -1,75 +1,44 @@
-![gitartwork](./assets/gitartwork.svg)
+<p align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Hossein Haghshenas — Software Engineer, exploring AI & Machine Learning" />
+</p>
 
 <br />
 
-<h1 align="center">Hello I'm Hossein Haghshenas</h1>
-<h3 align="center">Front-end Developer</h3>
+<img src="./assets/h-profile.svg" width="100%" alt="01 — Profile" />
 
-<br />
-<br />
+I'm a software engineer who has been building and shipping production systems since 2022 — today on a multilingual B2B international-trade platform where reliability, real-time data and clean delivery matter every day.
 
-<img align="right" alt="GIF" src="./assets/coding.gif" width="450" height="350" />
+I hold an **MSc in Data Science**, with a thesis on **recommender systems**, and I'm deliberately moving toward **AI and machine-learning engineering**: not only how models are trained and evaluated, but how intelligent capabilities are designed into real software and carried into production.
 
-<img height="30px" alt="html" src="./assets/icons/cat-git.gif"><b>About me</b>
-
-- 💼 Front-end Developer at [AradGBK]()
-
-- 🎓 Studying for a Master's degree in Data Science
-
-- 🚀 Future Data Scientist and AI/ML Engineer
-
-- ❤️ I love to dreaming up ideas and making them come true with programming
-
-- 💬 Feel free to ask me any question [here](https://github.com/Hossein-Haghshenas/Hossein-Haghshenas/issues)
+<sub><code>PRODUCTION-FIRST</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>DATA-DRIVEN BY DEFAULT</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>CURIOUS ABOUT HOW INTELLIGENT SYSTEMS ARE BUILT</code></sub>
 
 <br />
 
-**⚡ Technologies**
+<img src="./assets/h-built.svg" width="100%" alt="02 — What I've built" />
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Angular](https://img.shields.io/badge/-Angular-purple?style=flat-square&logo=angular)
-![Nextjs](https://img.shields.io/badge/-Nextjs-%23282C34?style=flat-square&logo=next.js)
+**In production** &nbsp;·&nbsp; A multilingual B2B trade platform with AI-assisted form filling and real-time auction and tender data, a business-automation system for inventory, production analytics and orders, and a data-aggregation MVP over web-scraped datasets — delivered through Docker-based CI/CD and multi-environment deployments.
 
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23333333?style=flat-square&logo=Bootstrap)
-![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
-![MaterialUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=mui&logoColor=white)
-
-![Nodejs](https://img.shields.io/badge/-Nodejs-%23282C34?style=flat-square&logo=Node.js)
-![Nestjs](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)
-![Expressjs](https://img.shields.io/badge/-Express-%23282C34?style=flat-square&logo=Express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-%23282C34?style=flat-square&logo=mongodb)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-![Figma](https://img.shields.io/badge/-figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-%23282C34?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-%23282C34?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-%23282C34?style=flat-square&logo=gitlab)
-![Docker](https://img.shields.io/badge/-docker-blue?style=flat-square&logo=docker&logoColor=white)
-
-**🌐 Social media**
-
-<a href="https://www.linkedin.com/in/hossein-haghshenas-68a3601ab/">
-  <img alt="Hossein's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+**In AI & ML** &nbsp;·&nbsp; Recommender-systems research, the focus of my MSc thesis, including a controlled knowledge-graph ablation study of graph-based models. Alongside it, a multi-agent study assistant built on Google ADK and MCP, and end-to-end regression, classification and clustering experiments. You'll find these in the pinned repositories below.
 
 <br />
+
+<img src="./assets/h-now.svg" width="100%" alt="03 — Now exploring" />
+
+- **Knowledge-aware recommender systems** — carrying my thesis work forward: when graph structure genuinely improves recommendations, and when it doesn't.
+- **LLM agents and tool use** — multi-agent orchestration, MCP and human-in-the-loop safeguards.
+- **From notebook to product** — bringing ML into the kind of production software I already build.
+
 <br />
 
-<details>
-  
-**<summary> Github Stats 💻</summary>**
+<img src="./assets/h-links.svg" width="100%" alt="04 — Elsewhere" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Hossein-Haghshenas&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hossein's github stats" />
+<p align="center">
+  <a href="https://hossein-h.netlify.app/"><img src="./assets/link-web.svg" height="54" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/hossein-haghshenas-68a3601ab/"><img src="./assets/link-linkedin.svg" height="54" alt="LinkedIn" /></a>
+  <a href="https://t.me/h_h_dev"><img src="./assets/link-telegram.svg" height="54" alt="Telegram" /></a>
+  <a href="https://buymeacoffee.com/hosseinh"><img src="./assets/link-coffee.svg" height="54" alt="Buy me a coffee" /></a>
+</p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hossein-Haghshenas&layout=compact&theme=buefy&hide_border=true" />
+<p align="center"><sub>Questions or ideas? <a href="https://github.com/Hossein-Haghshenas/Hossein-Haghshenas/issues">Open a thread</a>.</sub></p>
 
-</details>
+<img src="./assets/footer.svg" width="100%" alt="" />

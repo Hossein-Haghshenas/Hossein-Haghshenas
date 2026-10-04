@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="50" viewBox="0 0 900 50" role="img" aria-label="What I've built">
+<defs>
+  <linearGradient id="ln" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3B82F6" stop-opacity=".9"/><stop offset=".45" stop-color="#14B8A6" stop-opacity=".5"/><stop offset="1" stop-color="#22C55E" stop-opacity="0"/></linearGradient>
+</defs>
+<text x="2" y="31" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, Menlo, monospace" font-size="15" fill="#14B8A6" letter-spacing="1">02</text>
+<rect x="36" y="25" width="34" height="1.5" fill="#3B82F6"/>
+<text x="88" y="31" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, Menlo, monospace" font-size="15" font-weight="600" fill="#4E7DB0" letter-spacing="4">WHAT I&#8217;VE BUILT</text>
+<rect x="326" y="25" width="574" height="1" fill="url(#ln)"/>
+<path d="M302 30C311 30 313 21 322 21" fill="none" stroke="#22C55E" stroke-width="2" stroke-linecap="round"/>
+</svg>
